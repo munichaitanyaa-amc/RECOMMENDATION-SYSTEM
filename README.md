@@ -56,6 +56,12 @@ databases or APIs.
 
 output:
 
-
-<img width="1074" height="618" alt="Image" src="https://github.com/user-attachments/assets/4f764882-8e33-4cfc-9bdf-4630b1e242b5" />
-<img width="1044" height="360" alt="Image" src="https://github.com/user-attachments/assets/9f3cd3e4-343b-41f7-872d-43220030040c" />
+<img width="1202" height="88" alt="Image" src="https://github.com/user-attachments/assets/c643cc21-1a93-452d-aa14-cc0c46f71279" />
+<img width="1243" height="380" alt="Image" src="https://github.com/user-attachments/assets/851946fe-3a21-4642-9865-c7d3b451f201" />
+<img width="1366" height="309" alt="Image" src="https://github.com/user-attachments/assets/d3df1a72-35c0-4c71-9b1c-6e8443112882" />
+<img width="1210" height="336" alt="Image" src="https://github.com/user-attachments/assets/244844a1-4914-4bed-a17d-d333a921b76a" />
+<img width="791" height="638" alt="Image" src="https://github.com/user-attachments/assets/1836cdf1-b232-43e2-9652-e59660c7d31a" />
+<img width="1159" height="86" alt="Image" src="https://github.com/user-attachments/assets/3abf3397-bc75-47ab-a5ee-b970e61432f1" />
+<img width="1211" height="296" alt="Image" src="https://github.com/user-attachments/assets/839c2b8d-aa8c-4101-8302-7db08ac8ce67" />
+<img width="1223" height="446" alt="Image" src="https://github.com/user-attachments/assets/30343331-89e5-4e7e-adf7-aa85beb07e35" />
+<img width="1206" height="424" alt="Image" src="https://github.com/user-attachments/assets/387618dd-f9a7-4fdc-9f88-4265dc3798d6" />
