@@ -1,16 +1,16 @@
 # RECOMMENDATION-SYSTEM
 
-COMPANY  CODTECH IT SOLUTIONS
+COMPANY : CODTECH IT SOLUTIONS
 
-NAME  Amudala Muni Chaitanya
+NAME : Amudala Muni Chaitanya
 
-INTERN ID  CTIS8835
+INTERN ID : CTIS8835
 
-DOMAIN  MACHINE LEARNING
+DOMAIN : MACHINE LEARNING
 
-DURATION  4 WEEKS
+DURATION : 4 WEEKS
 
-MENTOR  NEELA SANTHOSH
+MENTOR : NEELA SANTHOSH
 
 DESCRIPTION:
 
@@ -55,3 +55,7 @@ collaborative filtering, hybrid recommendation systems, natural language process
 databases or APIs.
 
 output:
+
+
+<img width="1074" height="618" alt="Image" src="https://github.com/user-attachments/assets/4f764882-8e33-4cfc-9bdf-4630b1e242b5" />
+<img width="1044" height="360" alt="Image" src="https://github.com/user-attachments/assets/9f3cd3e4-343b-41f7-872d-43220030040c" />
